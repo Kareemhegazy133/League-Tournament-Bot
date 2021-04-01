@@ -1,0 +1,6 @@
+Models/Player.java
+ Models.Player
+Bot/Main.java
+ Bot.Main
+Commands/RegisterSummonerCommand.java
+ Commands.RegisterSummonerCommand
